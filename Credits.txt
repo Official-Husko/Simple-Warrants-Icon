@@ -1,0 +1,10 @@
+Background Image: RhysGriffiths on DeviantArt (https://www.deviantart.com/rhysgriffiths/art/Defender-of-the-North-527610005)
+Art: Official Husko & IwitoStudio on flaticon (https://www.flaticon.com/free-icon/warranty_7239061)
+Code: Official Husko
+
+
+Tools Used:
+
+Preview: Gimp
+Art: Illustrator & Inkscape
+Code: VSCodium

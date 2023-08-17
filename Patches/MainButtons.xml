@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationConditional">
+	<success>Always</success>
+	<xpath>/Defs/MainButtonDef[defName="SW_Warrants"]/iconPath</xpath>
+	<nomatch Class="PatchOperationAdd">
+		<xpath>/Defs/MainButtonDef[defName="SW_Warrants"]</xpath>
+		<value>
+			<iconPath>UI/Buttons/MainButtons/Warrants</iconPath>
+		</value>
+	</nomatch>
+	<match Class="PatchOperationReplace">
+		<xpath>/Defs/MainButtonDef[defName="SW_Warrants"]/iconPath</xpath>
+		<value>
+			<iconPath>UI/Buttons/MainButtons/Warrants</iconPath>
+		</value>
+	</match>
+</Operation>
+
+</Patch>
