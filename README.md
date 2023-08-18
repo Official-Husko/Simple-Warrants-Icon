@@ -4,7 +4,7 @@ Finally, you can see a fitting Icon for the [Simple Warrants Mod][6] instead of 
 
 ![preview](https://github.com/Official-Husko/Simple-Warrants-Icon/blob/main/About/Preview.png)
 
-Compatible Versions: **1.4**\
+Compatible Versions: **1.3**, **1.4**
 
 Published Officially on the following Platforms:
 - [GitHub][3]
